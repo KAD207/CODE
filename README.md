@@ -1,2 +1,2 @@
 # CODE
-a roadmap for my dsa/school tests
+a github where i store dsa problems/uni finals prep problems
